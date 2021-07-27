@@ -1,3 +1,11 @@
+* {
+    align-content: center;
+}
+
+.alignRight {
+    text-align: right;
+}
+
 html {
     background-color: Black;
 }
